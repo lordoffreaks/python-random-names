@@ -1,7 +1,6 @@
 import unittest
 import unittest.mock as mock
-import names
-from names import random_names
+from random_names import random_names
 
 
 class TestRandomNames(unittest.TestCase):
