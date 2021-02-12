@@ -20,7 +20,7 @@ python tests.py
 
 ## Requirements
 Implement the ``random_names`` function defined in names.txt
-1. Returns a list of ``n`` random names, i.e: with ``n=3`` return ``["Richard", "Joseph", "Thomas"]``
+1. Returns a list of ``n`` random names, i.e: with ``n=3`` return something like ``["Richard", "Joseph", "Thomas"]``
 1. Do not include blank names or new line characters
 1. Do not include invalid names like digits
 1. Do not include duplicates
